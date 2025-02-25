@@ -1,5 +1,5 @@
 import './Logo.css'
-import logo from '../../assets/images/DomisDev.png'
+import logo from '../../assets/images/logo192.png'
 import React from 'react'
 
 export default props =>

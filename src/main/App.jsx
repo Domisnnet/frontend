@@ -13,6 +13,6 @@ export default props =>
       <Logo/>
       <Nav/>
       <Main icon="home" title="Início"
-        subtitle="Projeto de React"/> 
+        subtitle="Projeto em React"/> 
       <Footer/>
     </div>

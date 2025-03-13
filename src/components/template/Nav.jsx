@@ -4,7 +4,7 @@ import React from 'react'
 export default props => 
     <aside className="menu-area">
         <nav className="menu">
-            <a href="#/Home">
+            <a href="#/">
                 <i className="fa fa-home">
                 </i> Início
             </a>

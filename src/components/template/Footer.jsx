@@ -6,5 +6,5 @@ export default props =>
         <span>
             Desenvolvido com <i className="fa fa-heart text-danger"></i> por
             <strong> Dom<span className="text-danger">1</span>s</strong>
-        </span>
+        </span>                                                                                                                                                                                                                                                                                         
     </footer>

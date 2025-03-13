@@ -1,8 +1,9 @@
 import React from "react";
 import Main from "../template/Main";
+import "./Home.jsx";
 
 export default props =>
-    <Main icon="home" title="Início"
+    <Main icon="Home" title="Início"
         subtitle="Projeto em React">
         <div className="display-4">Bem Vindo!</div>  
         <hr />
